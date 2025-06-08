@@ -18,8 +18,8 @@ This repository contains a LaTeX template for a professional software engineer r
 2. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/software-engineer-resume.git
-    cd software-engineer-resume
+    git clone https://github.com/IvyZhao405/ResumeTemplate.git
+    cd ResumeTemplate
     ```
 
     - You can also simply copy paste this into Overleaf!
